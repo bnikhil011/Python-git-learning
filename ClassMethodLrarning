@@ -1,0 +1,19 @@
+import pyodbc
+import os
+# Some other example server values are
+# server = 'localhost\sqlexpress' # for a named instance
+# server = 'myserver,port' # to specify an alternate port
+# for n in pyodbc.drivers():
+# #     print(n)
+# print(pyodbc.drivers())
+# server='localhost'
+# database = 'myhibernatdb'
+# username = 'root'
+# password = ''
+# cnxn = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+# cursor = cnxn.cursor()
+# cursor.execute('SELECT * FROM parents')
+#
+# for row in cursor:
+#     print(row)
+os.system('C:/Users/WELCOME/Desktop/UIDesign.pdf')
